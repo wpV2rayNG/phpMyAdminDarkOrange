@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>DarkOrange</h1>
+  <h1>Dark Orange</h1>
   <p>
-   DarkOrange theme for phpMyAdmin v5.1 & 5.2
+   Dark Orange theme for phpMyAdmin v5.1 & 5.2
   </p>
 </div>
 <br>
