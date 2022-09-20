@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>DarkOrange</h1>
   <p>
@@ -6,6 +5,6 @@
   </p>
 </div>
 <br>
-preview:
+Screen:
 
 ![alt text](https://raw.githubusercontent.com/abolfazlrvn/phpMyAdmin_DarkOrange/main/screen.png)
